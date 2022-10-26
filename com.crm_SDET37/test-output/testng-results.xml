@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-08-18T19:32:49 IST" name="Default suite" finished-at="2022-08-18T19:34:48 IST" duration-ms="118632">
+    <groups>
+      <group name="AdhocTest">
+        <method signature="CreateOrganizationandVerifyTest.createOrganizationandVerifyTest()[pri:0, instance:com.CRM.VTiger.Organization.CreateOrganizationandVerifyTest@43dac38f]" name="createOrganizationandVerifyTest" class="com.CRM.VTiger.Organization.CreateOrganizationandVerifyTest"/>
+      </group> <!-- AdhocTest -->
+    </groups>
+    <test started-at="2022-08-18T19:32:49 IST" name="Default test" finished-at="2022-08-18T19:34:48 IST" duration-ms="118632">
+      <class name="com.CRM.VTiger.Organization.CreateOrganizationandVerifyTest">
+        <test-method signature="createOrganizationandVerifyTest()[pri:0, instance:com.CRM.VTiger.Organization.CreateOrganizationandVerifyTest@43dac38f]" started-at="2022-08-18T19:32:49 IST" name="createOrganizationandVerifyTest" finished-at="2022-08-18T19:34:48 IST" duration-ms="118481" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createOrganizationandVerifyTest -->
+      </class> <!-- com.CRM.VTiger.Organization.CreateOrganizationandVerifyTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite thread-count="2" parallel="classes" name="Failed suite [Suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="2" parallel="classes" name="Test2(failed)">
+    <classes>
+      <class name="com.CRM.VTiger.Organization.CreateOrgandSelectContactandVerifyTest">
+        <methods>
+          <include name="createOrganizationandVerify"/>
+        </methods>
+      </class> <!-- com.CRM.VTiger.Organization.CreateOrgandSelectContactandVerifyTest -->
+    </classes>
+  </test> <!-- Test2(failed) -->
+</suite> <!-- Failed suite [Suite] -->

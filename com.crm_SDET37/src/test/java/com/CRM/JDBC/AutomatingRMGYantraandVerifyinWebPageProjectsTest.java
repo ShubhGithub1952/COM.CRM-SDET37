@@ -22,6 +22,7 @@ public class AutomatingRMGYantraandVerifyinWebPageProjectsTest {
 		driver.get("http://localhost:8084/");
 		WebElement userNameTextField = driver.findElement(By.id("usernmae"));
 		userNameTextField.clear();
+		System.out.println("CheckingStatment");
 		userNameTextField.sendKeys("rmgyantra");
 		WebElement passwordTextField = driver.findElement(By.id("inputPassword"));
 		passwordTextField.clear();
